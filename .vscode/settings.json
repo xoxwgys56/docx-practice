@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "python.defaultInterpreterPath": "/Users/daewonkim/.local/share/virtualenvs/docx-practice-eEPJW6re/bin/python3",
+  "python.formatting.blackPath": "/Users/daewonkim/.local/share/virtualenvs/docx-practice-eEPJW6re/bin/black",
+  "python.formatting.provider": "black",
+  "editor.defaultFormatter": "ms-python.python"
+}
