@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 lxml = "==4.8.0"
-python-docx = {editable = true, ref = "4ca8a737c2853b8e25ebb307bee6825dad88cc66", git = "https://github.com/xoxwgys56/python-docx"}
 loguru = "*"
+python-docx = "*"
 
 [dev-packages]
 black = "*"
