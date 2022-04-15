@@ -31,4 +31,18 @@ def main(file_path: str):
 
 if __name__ == "__main__":
     file_path = "./samples/python-docx.docx"
+    """
+    2022-04-15 16:28:19.059 | INFO     | __main__:main:19 - Finished read file from ./samples/python-docx.docx
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:23 - Hello This is test doc
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 - Hello This is test doc None
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:23 - 
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 -  None
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:23 - x1 + y2 = z3
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 - x None
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 - 1 True
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 -  + y None
+    2022-04-15 16:28:19.059 | DEBUG    | __main__:main:26 - 2 False
+    2022-04-15 16:28:19.060 | DEBUG    | __main__:main:26 -  = z None
+    2022-04-15 16:28:19.060 | DEBUG    | __main__:main:26 - 3 None
+    """
     main(file_path)
