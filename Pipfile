@@ -7,6 +7,7 @@ name = "pypi"
 lxml = "==4.8.0"
 loguru = "*"
 python-docx = "*"
+pillow = "*"
 
 [dev-packages]
 black = "*"
